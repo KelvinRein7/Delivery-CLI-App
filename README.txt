@@ -1,14 +1,12 @@
 Delivery App Backend
 ---------------------
 
-- It is a terminal-based delivery app. 
-
-- The whole idea of the app is to let the customer view available franchises, drivers and all other information (locations, IDs, etc...) and let them make an order. 
+- The whole idea of the app is to let the customer view available franchises, drivers and all other information (locations, IDs, etc...) and let them place orders. 
 
 - Then, the closest franchise will receive the order and the closest driver will be assigned
-to pick up the order. 
+to pick up the order. You get the point :D. Just like how UberEats works.
 
-- The driver then delivers it to the customer's location. It almost sounds like UBEREATS. :D
+- The driver then delivers it to the customer's location.
                                                         
 Compiling Instruction
 ---------------------
@@ -21,4 +19,4 @@ Open your Terminal,
 	Step 1) make
 	Step 2) ./app
 
-Then you will given options to play around with it. ENJOY!
+Then you will have options to play around with it. ENJOY!
