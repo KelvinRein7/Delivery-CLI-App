@@ -1,22 +1,18 @@
 Delivery App Backend
 ---------------------
 
-- The whole idea of the app is to let the customer view available franchises, drivers and all other information (locations, IDs, etc...) and let them place orders. 
-
-- Then, the closest franchise will receive the order and the closest driver will be assigned
-to pick up the order. You get the point :D. Just like how UberEats works.
-
-- The driver then delivers it to the customer's location.
+- The whole idea of this project is to understand how a delivery app (Uber, DoorDash, etc.) work from high-level view.
                                                         
 Compiling Instruction
 ---------------------
 
-Since I have created a makefile that compiles and links all code into a single executable,
-you can just go to the directory that contains all the files and
+I have created a makefile that compiles and links all code into a single executable :D
+
+Open up the folder, feel free to try it out!
         
-Open your Terminal,
+Open up your Terminal,
 
 	Step 1) make
 	Step 2) ./app
 
-Then you will have options to play around with it. ENJOY!
+Play around with it. ENJOY!
