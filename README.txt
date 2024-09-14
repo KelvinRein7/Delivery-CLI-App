@@ -1,4 +1,4 @@
-Delivery App Backend
+Delivery App
 ---------------------
 
 - The whole idea of this project is to understand how a delivery app (Uber, DoorDash, etc.) work from high-level view.
